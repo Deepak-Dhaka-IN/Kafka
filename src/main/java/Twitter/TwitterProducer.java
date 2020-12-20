@@ -50,10 +50,10 @@ public class TwitterProducer {
     public Client createTwitterClient(BlockingQueue<String> msgQueue) {
 
 
-        String consumerKey = "d3tONiXtqm97OjKv3qWOxo3iR";
-        String consumerSecret = "DGpFhdE3XQD5EHvBmxlyUjFpPgtwD49DPGOUjk7FldL4zx2jeB";
-        String token = "2851852542-iIxG0hPqfUZyjFaooffytbY7W4pWRissJ1fFI53";
-        String secret = "TGSnHFzE6dg96oNAuCeMdznHURADjv0HLr1vGBMVEV7P9";
+        String consumerKey = "****";
+        String consumerSecret = "****";
+        String token = "*****-*****";
+        String secret = "********";
 
 
         Hosts hosebirdHosts = new HttpHosts(Constants.STREAM_HOST);
